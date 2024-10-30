@@ -1,0 +1,1062 @@
+,Player,ID,Agent,First_Name_x,team_short,Gender
+0,Beran Stepan,07050321,Paska,Štěpán,Slavia,Male
+1,Beranek David,04080163,Hrdlicka,David,Kolin,Male
+2,Beranek Marek,03050463,Hrdlicka,Marek,Teplice,Male
+3,Bernatik Lukas,08010878,Kolar,Lukáš,Slovacko,Male
+4,Bewene Abdullahi Ibrahim,04111473,Simek,Abdullahi,Kromeriz,Unknown
+5,Biciste Dominik,99080413,Rehak,,,
+6,Biegon Erik,04040903,Hrdlicka,Erik,Vlasim,Male
+7,Bily Daniel,02030256,Rehak,,,
+8,Bily Richard,04050403,Rehak,Richard,Hlubina,Male
+9,Binar Adam,06030281,Chovanec,Adam,Hradec,Male
+10,Binar Borek,07120266,Paska,Bořek,Banik,Male
+11,Blatny Josef,05010261,Matejek,Josef,Opava,Male
+12,Bocek Adam,04030127,Nehoda,,,
+13,Bohac David,05080626,Nehoda,David,Hostoun,Male
+14,Bohac Sebastian,02071016,Chyba,Sebastian,Karvina,Male
+15,Bolik Lukas,08040736,Smejkal,Lukáš,Opava,Male
+16,Bolorbold Chinguun,09010173,Kolar,,,
+17,Borek Jiri,02090800,Hrdlicka,Jiří,Vyskov,Male
+18,Borkovec Adam,02030055,Smejkal,,,
+19,Borolic Matej,06040164,Nehoda,Matěj,Plzen,Male
+20,Bouchner Daniel,06020065,Paska,Daniel,Jihlava,Male
+21,Brabec Jiri,07120179,Muller,Jiří,Sparta,Male
+22,Brabec Jan,03020334,Zika,Jan,Budejovice,Male
+23,Brandner Patrik,94010177,Nehoda,Patrik,Zlin,Male
+24,Branecky Lukas,06040483,Zika,Lukáš,Zlin,Male
+25,Brazda Tomas,08010336,Smejkal,Tomáš,Slavia,Male
+26,Brdicka Filip,04080114,Rehak,Filip,Pardubice,Male
+27,Broukal David,96030882,Barton,David,Zizkov,Male
+28,Bryndza Vaclav,07090158,Chovanec,Václav,Admira,Male
+29,Brecka Tomas,94050814,Kolar,Tomáš,Slovacko,Male
+30,Brecka Stepan,04040026,Rehak,Štěpán,Slovacko,Male
+31,Brezina Ales,07020382,Nehoda,Aleš,Slavia,Male
+32,Brezina Lukas,01030799,Pav,,,
+33,Bucha Pavel,98030542,Kolar,,,
+34,Buchvaldek Lukas,96011704,Konig,,Zlin,Unknown
+35,Bzura Jonas,05060259,Hrdlicka,Jonáš,Teplice,Male
+36,Cahel Mikes,04050261,Bartonicek,Mikeš,Olomouc,Unknown
+37,Cahlik Jakub,09010726,Paska,Jakub,Banik,Male
+38,Daniel Cosme Cantin Matthew,02031735,Chrysostome,,,
+39,Capka Filip,08030787,Paska,Filip,Olomouc,Male
+40,Cedidla Martin,01110727,Kisel,Martin,Pardubice,Male
+41,Cienciala Lukas,01020132,Muller,Lukáš,Trinec,Male
+42,Daniel Cosme Cisse Pape Amath,01031780,Chrysostome,Amath,Sparta,Unknown
+43,Ciupa Jiri,98050333,Matejek,Jiří,Karvina,Male
+44,Clement Chukwudozie Malachy,03011504,Simek,,,
+45,Corneil Tristan Currie,94012322,Barton,,,
+46,Costa Da Rosa Bernardo,00091681,Chyba,Da Rosa,Vlasim,Unknown
+47,Coufal Vladimir,92081661,Kisel,,,
+48,Cap Roman,99061312,Pav,Roman,SPARTAK POLICE NAD,Male
+49,Carnoky Jan,09060264,Nehoda,Jan,Banik,Male
+50,Cavos Patrik,95010398,Krob,Patrik,Karvina,Male
+51,Cech Frantisek,98060656,Hrdlicka,František,Hradec,Male
+52,Cechal Matej,05020011,Kolar,Matěj,Teplice,Male
+53,Cejka Felix,01010003,Kisel,Felix,Opava,Male
+54,Cepela Matej,06080102,Smejkal,Matěj,Boleslav,Male
+55,Cerepkai Roman,02041721,Kisel,Roman,Teplice,Male
+56,Cermak Adrian,93072558,Fukan,Adrián,Jihlava,Male
+57,Cermak Ales,94100002,Smejkal,Aleš,Bohemians,Male
+58,Cernicky Radim,01020723,Hrdlicka,,,
+59,Cernin Jakub,99020358,Neuschl,Jakub,Zlin,Male
+60,Cerny Martin,05050186,Paska,Martin,Zbrojovka,Male
+61,Cerny Vaclav,97100788,Nehoda,,,
+62,Cerv Lukas,01040392,Muller,Lukáš,Plzen,Male
+63,Cervenka Ondrej,08010131,Hrdlicka,Ondřej,Slavia,Male
+64,Cihak Jakub,04100076,Nehoda,,,
+65,Cihak Filip,99070497,Hrdlicka,Filip,Hradec,Male
+66,Cizek Krystof,08010054,Kolar,,,
+67,Coudek Ondrej,04100403,Hrdlicka,Ondřej,Budejovice,Male
+68,Ctvrtlik Roman,07030284,Hrdlicka,,,
+69,Cvancara Tomas,00080561,Nehoda,,,
+70,Da Costa Roberto,07020365,Muller,Roberto,LISEN B,Male
+71,Damasek Ondrej,03070878,Nehoda,,,
+72,Dancak Samuel,98031773,Neuschl,Samuel,Hradec,Male
+73,Danek Krystof,03010126,Kolar,Kryštof,Sparta,Male
+74,Darmovzal Denis,00070732,Konig,Denis,Pardubice,Male
+75,David Moses,04011071,Simek,Moses,Karvina,Male
+76,Deml Ondrej,05010630,Neuschl,,,
+77,Demmer Nicholas Anthony,06100174,Nehoda,Nicholas,Sparta,Male
+78,Daniel Cosme Diao Aliou,03101611,Chrysostome,,,
+79,Daniel Cosme Diop Youssou,03121448,Chrysostome,,,
+80,Divis Matej,06060093,Paska,Matěj,Sparta,Male
+81,Divis Sebastian,05020344,Nehoda,,,
+82,Dobes Dominik,09030322,Chyba,Dominik,Liberec,Male
+83,Dohalsky Patrik,03090170,Pav,Patrik,Boleslav,Male
+84,Dohnal Ondrej,04040612,Nehoda,Ondřej,Pribram,Male
+85,Dohnalek Adam,04070072,Zika,Adam,Olomouc,Male
+86,Dolejs Marek,05100253,Riha,,,
+87,Dolezel Frantisek,07060208,Paska,František,Banik,Male
+88,Donat Denis,01090492,Kolar,Denis,Boleslav,Male
+89,Dornak Filip,06070408,Hrdlicka,Filip,Zlin,Male
+90,Dostal David,09010024,Hrdlicka,David,Pardubice,Male
+91,Dostal Jan,07040543,Paska,Jan,Pardubice,Male
+92,Doubek Martin,04050431,Levy,Martin,Plzen,Male
+93,Doudera David,98051705,Muller,David,Slavia,Male
+94,Doudera Martin,02020003,Muller,Martin,Dukla,Male
+95,Daniel Cosme Doumbia Sekou Vini,05041763,Chrysostome,,,
+96,Freislerova Julie,05070692,Barton,,,
+97,Fritz Robert James,06061071,Barton,,,
+98,Frolek Martin,05020313,Zika,Martin,Zlin,Male
+99,Frolik Ondrej,08070585,Nehoda,Ondřej,Slavia,Male
+100,Frydek Martin,92031932,Kolar,,,
+101,Frydek Christian,99020014,Nehoda,Christian,Liberec,Male
+102,Fryd! Tadeas,07020170,Matejek,Tadeáš,Banik,Male
+103,Fulnek Jakub,94041870,Muller,Jakub,Boleslav,Male
+104,Gabriel Israel Odaleko,04031582,Simek,,,
+105,Gabriel Adam,01051154,Paska,,,
+106,Gabriel Simon,01051155,Paska,,,
+107,Gabris Simon,02060464,Levy,Šimon,Kromeriz,Male
+108,Galik Jakub,06070141,Smejkal,Jakub,Karvina,Male
+109,Galus Michal,00120265,Hrdlicka,Michal,Zlinsko,Male
+110,Gergela Michael,02090700,Matejek,Michael,Banik,Male
+111,Daniel Cosme Gning Abdallah,98091810,Chrysostome,Abdallah,Teplice,Male
+112,Goj Patrik,02070260,Fukan,Patrik,Rosice,Male
+113,Gonzalez Juarez Pablo,93052613,Bartonicek,,,
+114,Gorcica Adam,01051072,Chovanec,Adam,Frydek,Male
+115,Goretkiova Albina,05080570,Kolar,,,
+116,Gorip Rotgak Inuwa,05111557,Simek,,,
+117,Govaers Milan,04031590,Riha,,,
+118,Graclik Jakub,07070322,Nehoda,Jakub,Banik,Male
+119,Granecny Denis,98090294,Nehoda,Denis,Zbrojovka,Male
+120,Grecmal Daniel,00071454,Hrdlicka,,,
+121,Grygar Samuel,04080191,Matejek,Samuel,Banik,Male
+122,Daniel Cosme GUIRA IBRAHIM,04111491,Chrysostome,,,
+123,Gycre Matyas,06050336,Rehak,Matyáš,Olomouc,Male
+124,Hacaperka Matej,08040416,Kolar,Matěj,Plzen,Male
+125,Hadas Matej,03110549,Zika,Matěj,Olomouc,Male
+126,Hais Daniel,03060053,Kolar,Daniel,Hradec,Male
+127,Hajek David,06060044,Smejkal,,,
+128,Hajek Jan,08050435,Paska,Jan,Dukla,Male
+129,Hajnik Ondrej,02030027,Rehak,Ondřej,Zivanice,Male
+130,Hajnovic Filip,06060717,Paska,,,
+131,Hak Tomas,03100455,Hrdlicka,Tomáš,Budejovice,Male
+132,Hala Martin,92031924,Matejek,,,
+133,Halasz Jan,01021133,Konig,,,
+134,Halinsky Denis,03070418,Hrdlicka,Denis,Liberec,Male
+135,Hamalcik Radim,04120201,Hrdlicka,Radim,Zlin,Male
+136,Hampl Matej,05040001,Hrdlicka,Matěj,Hradec,Male
+137,Hane Matyas,04070530,Chyba,,,
+138,Hanzelka Denis,06030183,Matejek,,,
+139,Harazim Stepan,00070557,Matejek,Štěpán,Hradec,Male
+140,Hartman Matyas,03060192,Rehak,Matyáš,Zlin,Male
+141,Harustak Jaroslav,02010239,Bartonicek,Jaroslav,Teplice,Male
+142,Drabek David,06090058,Riha,David,Olomouc,Male
+143,Drchal Vaclav,99071243,Paska,Václav,Bohemians,Male
+144,Drobek Ondrej,06030045,Konig,Ondřej,Karvina,Male
+145,Dufek Jakub,06020394,Smejkal,Jakub,Slavia,Male
+146,Dufek Ladislav,02120627,Neuschl,Ladislav,Pardubice,Male
+147,Duchackova Klara,04050633,Kolar,,,
+148,Duska Stepan,07110105,Nehoda,,,
+149,Dvoracek David,09050415,Nehoda,David,Pardubice,Male
+150,Dvorak Adam,04070550,Martinovic,Adam,Motorlet,Male
+151,Egwu Ojochegbe Martins,05021514,Simek,Ojochegbe,Karvina,Unknown
+152,Ejedegba Mitchell Ewomaoghene,04051604,Smejkal,Mitchell,Plzen,Male
+153,Daniel Cosme EKOU ERWANN,05121453,Chrysostome,,,
+154,Elad Liad Moshe,00091682,Rehak,,,
+155,Elbel Jakub,00070241,Kisel,Jakub,Olomouc,Male
+156,Emanuel Stephen Abah,06011642,Smejkal,Stephen,Jablonec,Male
+157,Erewa Gideon,06041755,Bartonicek,,,
+158,Exner Jakub,07070743,Hrdlicka,,,
+159,Ezeh Lucky,04011619,Simek,Lucky,Karvina,Unknown
+160,Fabianek Jakub,03050624,Hrdlicka,Jakub,Olomouc,Male
+161,Faltus Matej,05100490,Hrdlicka,Matěj,Budejovice,Male
+162,Fantis Antonin,92041145,Barton,,,
+163,Daniel Cosme Faye Roger,04091709,Chrysostome,,,
+164,Federle Matej,09020453,Hrdlicka,,,
+165,Feit Jan,06030017,Nehoda,Jan,Loko Praha,Male
+166,Fendrich Vilem,91011735,Fukan,Vilém,Budejovice,Male
+167,Ferenc Tomas,08040856,Paska,Tomáš,Slavia,Male
+168,Ferlay Matyas,03020620,Hrdlicka,,,
+169,Ferlay Ruben,08010264,Hrdlicka,Ruben,Zbrojovka,Male
+170,Fiala Jan,01050177,Nehoda,Jan,Olomouc,Male
+171,Fiker Stepan,05010414,Hrdlicka,Štěpán,Boleslav,Male
+172,Fila Adam,99080735,Hrdlicka,Adam,Rosice,Male
+173,Fila Lukas,04010138,Paska,,,
+174,Fila Daniel,02080721,Hrdlicka,Daniel,Slavia,Male
+175,Filip Jan,09010172,Kolar,,,
+176,Filipek Matyas,06080564,Riha,Matyáš,Liberec,Male
+177,Filippov Patrik,07090113,Levy,Patrik,Slavia,Male
+178,Filo Jan,09030325,Nehoda,Jan,Olomouc,Male
+179,Finek Daniel,00051291,Pav,Daniel,Chlumec n. Cidlinou,Male
+180,Firbacher Martin,06100511,Paska,Martin,Pardubice,Male
+181,Fiser Dominik,01120567,Muller,Dominik,Plzen,Male
+182,Fisl Daniel,00060814,Kisel,Daniel,Zizkov,Male
+183,Fitko Ales,09010346,Hrdlicka,Aleš,Plzen,Male
+184,Floder Jiri,97010108,Kisel,Jiří,Boleslav,Male
+185,Forster Lukas,08070207,Nehoda,Lukáš,Pardubice,Male
+186,Fortelny Jan,99010893,Nehoda,Jan,Pardubice,Male
+187,Franc Lukas,08060616,Chyba,Lukáš,Sparta,Male
+188,Franek Jan,06100070,Hrdlicka,Jan,Vlasim,Male
+189,Franek Tomas,02070629,Nehoda,Tomáš,Jihlava,Male
+190,Franke Denis,06100129,Nehoda,Denis,Plzen,Male
+191,Franko Matej,01021534,Nehoda,,,
+192,Vajner Tomas,00050669,Neuschl,Tomáš,Lisen,Male
+193,Vala Denis,00100462,Martinovic,,,
+194,Vala Patrik,00100461,Martinovic,Patrik,Povltavska,Male
+195,Valenta Adam,08040233,Hrdlicka,Adam,Zbrojovka,Male
+196,Valenta Matej,00020401,Muller,Matěj,Plzen,Male
+197,Valin Vaclav,04030642,Levy,Václav,Povltavska,Male
+198,Valosek Vit,07050289,Matejek,Vít,Karvina,Male
+199,Van Buren Mick,92082444,Muller,,,
+200,Vana Lukas,05010166,Kisel,Lukáš,Teplice,Male
+201,Vana Lukas,03050429,Paska,Lukáš,Sparta,Male
+202,Vana Jakub,05090089,Levy,,,
+203,Vanak Martin,00040869,Krob,,,
+204,Vancura Tadeas,06080021,Paska,Tadeáš,Pardubice,Male
+205,Vanek Lukas,08010612,Hrdlicka,Lukáš,Hradec,Male
+206,Vanek Jaroslav,05050383,Smejkal,Jaroslav,Loko Praha,Male
+207,Vanicek Antonin,98041209,Muller,Antonín,Zizkov,Male
+208,Vankat Tobias,07071092,Levy,Tobiáš,Sparta,Male
+209,Varacka Matous,01010009,Hrdlicka,Matouš,Taborsko,Male
+210,Vavrik Radek,05070581,Rehak,Radek,Frydek,Male
+211,Vavrik Vit,05070580,Rehak,Vít,Karvina,Male
+212,Vecera Filip,06010086,Matejek,Filip,Zbrojovka,Male
+213,Vedral Filip,97041474,Rehak,Filip,Vyskov,Male
+214,Vecheta Filip,03020422,Rehak,Filip,Slovacko,Male
+215,Velich Oliver,01060440,Paska,Oliver,Jablonec,Male
+216,Veprovsky Vojtech,07050240,Riha,,,
+217,Vesely David,09080011,Paska,David,Zlin,Male
+218,Viktorin Stepan,06030559,Konig,Štěpán,Zbrojovka,Male
+219,Vilimek Viktor,05020570,Levy,,,
+220,Vilotic Stefan,99101496,Martinovic,,,
+221,Vit Benjamin,03040493,Rehak,Benjamín,Zbrojovka,Male
+222,Vitak Michal,06120300,Chovanec,,,
+223,Vitarigov Arsen,05040229,Paska,Arsen,Sparta,Male
+224,Vitek Radek,03100605,Kolar,,,
+225,Vithova Katerina,06030815,Barton,,,
+226,Vitik Martin,03010588,Nehoda,Martin,Sparta,Male
+227,Vizingr Vojtech,07070290,Matejek,Vojtěch,Zbrojovka,Male
+228,Vlcek Adam,07030547,Paska,Adam,Budejovice,Male
+229,Vlcek Tomas,01021149,Paska,Tomáš,Slavia,Male
+230,Vlcek Patrik,05050195,Krob,Patrik,Admira,Male
+231,Vlcek Jakub,03120111,Hrdlicka,Jakub,Boleslav,Male
+232,Vlkanova Adam,94090209,Konig,Adam,Hradec,Male
+233,Vlna Simon,07041872,Vrto,,,
+234,Vodicka Adam,07050068,Matejek,Adam,Banik,Male
+235,Vondra Jan,95090675,Levy,Jan,Bohemians,Male
+236,Vorel Vojtech,96060990,Zika,Vojtěch,Sparta,Male
+237,Vydra Matej,92050004,Chovanec,Matěj,Plzen,Male
+238,Vydra Patrik,03060577,Kisel,Patrik,Boleslav,Male
+239,Vynikal Simon,09050349,Hrdlicka,Šimon,Boleslav,Male
+240,Daniel Cosme ABA OSEE,05021527,Chrysostome,,,
+241,Abdoulkarim Muhammed Jamiu,04041766,Simek,,Hlucin,Unknown
+242,Abrham Jan,07060063,Hrdlicka,Jan,Plzen,Male
+243,Adametz Oliver,08090766,Chovanec,Oliver,Zbrojovka,Male
+244,Adeyemi Abass Bukunmi,05111553,Simek,,,
+245,Daniel Cosme AIDARA AMADOU,04081720,Chrysostome,,,
+246,Akosah Bempah Nana Dwomoh,97081841,Rehak,,,
+247,Albrecht Adam,07030511,Fukan,Adam,Svratka Brno,Male
+248,Albrecht Krystof,08120032,Levy,Kryštof,Boleslav,Male
+249,Alrashdi Mohammed Saleh S,02051703,Martinovic,,,
+250,Amasi Moses Emmanuel,04011635,Kolar,Moses,Olomouc,Male
+251,Ambler Martin,00070331,Krob,Martin,Dukla,Male
+252,Antwi Emmanuel,96051981,Bartonicek,Emmanuel,Pribram,Male
+253,Aririerisim Emmanuel Uchenna,03121428,Smejkal,,Banik,Unknown
+254,Arroyo Cabeza Luis Aldair,96041837,Bartonicek,,,
+255,Aubrecht Robert,03010624,Smejkal,,,
+256,Ayaosi Emmanuel,04101558,Simek,Emmanuel,Karvina,Male
+257,Ayoola Ibrahim,03031674,Simek,,,
+258,Daniel Cosme Ba Abdourahmane,06011631,Chrysostome,Abdourahmane,Motorlet,Unknown
+259,Babka Matous,02010035,Kisel,Matouš,Opava,Male
+260,Daniel Cosme Bahi Pregnon Ange Clarck,05061885,Chrysostome,,,
+261,Bachurek Stepan,02080804,Levy,Štěpán,Zlin,Male
+262,Baier Viktor,05010205,Kolar,Viktor,Plzen,Male
+263,Bakrlik Frantisek,07051282,Smejkal,,,
+264,Balazs Kenneth,05020015,Hrdlicka,Kenneth,Banik Most,Male
+265,Barac Jakub,96080161,Pav,Jakub,Taborsko,Male
+266,Barat Daniel,06080126,Paska,Daniel,Slovacko,Male
+267,Barcot David,09040223,Paska,David,Slavia,Male
+268,Baros Simon,09010412,Paska,Simon,Banik,Male
+269,Barta Stepan,05120040,Nehoda,Štěpán,Dukla,Male
+270,Bartik Adam,06100859,Hrdlicka,Adam,Budejovice,Male
+271,Bartl Oliver,06030656,Rehak,,,
+272,Bartos Vojtech,02010461,Rehak,Vojtěch,Kromeriz,Male
+273,Bartos Adam,09040122,Hrdlicka,,,
+274,Bartosic Sebastian,08040003,Matejek,Sebastian,Slavia,Male
+275,Bastl Libor,03120485,Hrdlicka,Libor,Budejovice,Male
+276,Bauer David,04050676,Rehak,David,Chrudim,Male
+277,Baumgartner Daniel,05071024,Simek,Daniel,Karvina,Male
+278,Becva Stepan,06110437,Rehak,Štěpán,Zbrojovka,Male
+279,Bednar Adam,01061051,Matejek,Adam,Olomouc,Male
+280,Bello James,05051832,Smejkal,James,Plzen,Male
+281,Belzik Karel,07100232,Paska,Karel,Slavia,Male
+282,Belzik Vaclav,09020114,Paska,Václav,Slavia,Male
+283,Bendova Lucie,05040763,Kolar,,,
+284,Beran Michal,00081011,Riha,Michal,Pardubice,Male
+285,Beran Matyas,07050108,Hrdlicka,Matyas,Olomouc,Unknown
+286,Beran Stepan,04030213,Riha,Štěpán,Slavia,Male
+287,Zufankova Jana,02111134,Muller,,,
+288,Soukenik Dominik,99070641,Hrdlicka,Dominik,Vlasim,Male
+289,Soukup Lukas,95010334,Rehak,,,
+290,Spacil Jiri,99020500,Matejek,Jiří,Olomouc,Male
+291,Spacil Karel,03050516,Matejek,Karel,Hradec,Male
+292,Spilka Daniel,03060348,Nehoda,Daniel,Vlasim,Male
+293,Sprinz Ondrej,03050461,Smejkal,,,
+294,Srb Matous,09090205,Smejkal,Matouš,Slavia,Male
+295,Stanek Jindrich,96041529,Zika,,,
+296,Starova Antonie,98100544,Kolar,,,
+297,Stejskal Jan,97020748,Rehak,Jan,Pardubice,Male
+298,Stejskal Adam,02031059,Kolar,,,
+299,Stiburkova Aneta,06040011,Barton,,,
+300,Stoklasek David,02071012,Nehoda,,,
+301,Stoppen Tadeas,03120667,Kisel,Tadeáš,Olomouc,Male
+302,Stoszek Jakub,08020470,Matejek,Jakub,Banik,Male
+303,Stransky Vojtech,03030387,Kolar,Vojtěch,Boleslav,Male
+304,Strnad Damian,04050434,Fukan,Damián,Zbrojovka,Male
+305,Strnad Matej,06050003,Hrdlicka,Matěj,Liberec,Male
+306,Stryk Jan Tobias,05070647,Matejek,Tobias,Olomouc,Male
+307,Streska Petr,08020256,Nehoda,Petr,Sparta,Male
+308,Studeny Simon,04030868,Matejek,Simon,Zlinsko,Male
+309,Suchan Jan,96011007,Barton,Jan,Pardubice,Male
+310,Suchomel Martin,02090358,Muller,Martin,Sparta,Male
+311,Suchy Daniel,05110409,Hrdlicka,,,
+312,Sukdolak Ales,09030267,Smejkal,Aleš,Pardubice,Male
+313,Surzyn Michal,97090471,Muller,Michal,Pardubice,Male
+314,Sutr Jan,06020127,Hrdlicka,Jan,Plzen,Male
+315,Svacek Dominik,97021280,Zika,Dominik,Zbrojovka,Male
+316,Svatos Lukas,08060489,Hrdlicka,Lukáš,Pardubice,Male
+317,Svatos Jakub,05040170,Kolar,Jakub,Pardubice,Male
+318,Svoboda Tomas,00010947,Nehoda,,Vyskov,Unknown
+319,Svoboda Martin,08050503,Paska,Martin,Pardubice,Male
+320,Svobodova Ester,06120229,Nehoda,,,
+321,Svobodova Aneta,09060326,Barton,,,
+322,Daniel Cosme Sy Babacar,00101607,Chrysostome,Babacar,Slavia,Unknown
+323,Sychra Vojtech,01111047,Konig,Vojtěch,Pardubice,Male
+324,Daniel Cosme Sylla Alioune,03011534,Chrysostome,,,
+325,Synevych Maksym,07011216,Riha,Maksym,Olomouc,Male
+326,Syrovatka Matyas,08040011,Muller,Matyáš,Hradec,Male
+327,Safarik Daniel,09010090,Smejkal,Daniel,Pardubice,Male
+328,Sanci Filip,05060514,Paska,Filip,Jihlava,Male
+329,Sasinka Ondrej,98031075,Kolar,Ondřej,Hradec,Male
+330,Satava David,07050540,Nehoda,David,Budejovice,Male
+331,Seba Sebastian,03050478,Kisel,,,
+332,Serak Jachym,01020561,Nehoda,Jáchym,Chrudim,Male
+333,Setka Jakub,06070017,Muller,Jakub,Boleslav,Male
+334,Sevcik Petr,94050202,Kolar,Petr,Slavia,Male
+335,Sevcik Michal,02080403,Paska,,,
+336,Sevinsky Adam,04060456,Chovanec,Adam,Liberec,Male
+337,Sigut Samuel,02100976,Kisel,Samuel,Budejovice,Male
+338,Siler Radek,04090149,Krob,Radek,Sparta,Male
+339,Silhart Filip,02030651,Barton,,,
+340,Simacek Dominik,00030811,Kisel,,,
+341,Siman Jakub,95010396,Smejkal,Jakub,Bohemians,Male
+342,Simanek Filip,08100768,Nehoda,Filip,Teplice,Male
+343,Simecek Simon,06030510,Simek,Šimon,Karvina,Male
+344,Simek Martin,08121666,Nehoda,Martin,Jablonec,Male
+345,Simek David,98020717,Chovanec,David,Pardubice,Male
+346,Simon Adam,05040067,Nehoda,Adam,Pardubice,Male
+347,Simr Vit,06030096,Nehoda,Vít,Bohemians,Male
+348,Sin Matej,04060057,Kolar,Matěj,Banik,Male
+349,Sip Jachym,03010627,Matejek,Jáchym,Olomouc,Male
+350,Skoda Michal,88030967,Muller,,,
+351,Skubala Tomas,08020623,Nehoda,,,
+352,Slajsova Gabriela,00040359,Muller,,,
+353,Slapansky Ondrej,04050557,Chovanec,Ondřej,Zbrojovka,Male
+354,Smerda Dominik,04060081,Zika,Dominik,Povltavska,Male
+355,Smid Adam,05070468,Hrdlicka,,,
+356,Smiga Daniel,04010037,Paska,,,
+357,Smiga Jakub,08040613,Paska,Jakub,Slavia,Male
+358,Spacek Stepan,08040103,Simek,Štěpán,Lisen,Male
+359,Spatenka Filip,04020508,Kolar,Filip,Dukla,Male
+360,Stefan Jiri,06070400,Rehak,Jiří,Zlin,Male
+361,Stecha Oliver,06090443,Kolar,Oliver,Slovacko,Male
+362,Stepanek Adam,08060171,Paska,,,
+363,Stepanek Filip,99010540,Kisel,Filip,Zbrojovka,Male
+364,Stichauer Jakub,03010046,Rehak,,,
+365,Stindl Jachym,05090029,Hrdlicka,Jáchym,Budejovice,Male
+366,Stovicek Jan,99080697,Levy,Jan,Dukla,Male
+367,Stuler Marek,08081179,Riha,,,
+368,Sturma Daniel,07030727,Hrdlicka,Daniel,Budejovice,Male
+369,Stybr Adam,07030206,Nehoda,,,
+370,Subert Martin,02080402,Hrdlicka,Martin,Vlasim,Male
+371,Subrtova Anna,02110029,Nehoda,,,
+372,Sulc Pavel,00121062,Nehoda,Pavel,Plzen,Male
+373,Sural Jakub,96070003,Nehoda,Jakub,Zbrojovka,Male
+374,Sustr Dominik,05120289,Smejkal,Dominik,Plzen,Male
+375,Svach Marek,04080751,Paska,Marek,Zlin,Male
+376,Svec Viktor,09030439,Paska,,,
+377,Svejnoha Filip,08080013,Hrdlicka,Filip,Budejovice,Male
+378,Svestka Patrik,02090003,Hrdlicka,Patrik,Pribram,Male
+379,Svrcek Filip,07050837,Krob,Filip,Banik,Male
+380,Taborsky Marek,05100496,Hrdlicka,Marek,Usti n. Orlici,Male
+381,Takacs Ladislav,96070839,Hrdlicka,,,
+382,Daniel Cosme Tall Mame Alassane Laye,99091777,Chrysostome,,,
+383,Taus Martin,06030177,Fukan,Martin,Lisen,Male
+384,Tecl Jakub,04080593,Hrdlicka,Jakub,Pardubice,Male
+385,Temel Martin,03040769,Matejek,Martin,Banik,Male
+386,Tesar Simon,06060212,Paska,Šimon,Loko Praha,Male
+387,Michl Daniel,04020212,Paska,Daniel,Sparta,Male
+388,Michlik Karel,04090203,Zika,Karel,Frydek,Male
+389,Mika Vaclav,00060004,Smejkal,Václav,Budejovice,Male
+390,Mikes Filip,05070519,Bartonicek,Filip,Dukla,Male
+391,Mikula Matej,09060478,Nehoda,Matěj,Plzen,Male
+392,Mikulenka Matej,04020097,Kolar,Matěj,Olomouc,Male
+393,Misci Antonin,04030371,Hrdlicka,,,
+394,Misek Stepan,05070431,Paska,Štěpán,Pardubice,Male
+395,Mokrovics Roman,06061321,Riha,Roman,Sparta,Male
+396,Moravec Lukas,09060166,Hrdlicka,Lukáš,Mladeze,Male
+397,Moravkova Tamara,03011506,Kisel,,,
+398,Motycka David,03090252,Rehak,David,Karvina,Male
+399,Moucka David,99110186,Fukan,David,Kromeriz,Male
+400,Moudry Lukas,07010160,Muller,Lukáš,Sparta,Male
+401,Moulis Pavel,91040521,Smejkal,Pavel,Dukla,Male
+402,Mrozek Ondrej,03100401,Muller,Ondřej,Trinec,Male
+403,Mucha Filip,92060280,Matejek,Filip,Zbrojovka,Male
+404,Musa Abdulrasheed Itopa,01111488,Smejkal,,Velvary,Unknown
+405,Musil Matej,04110169,Nehoda,Matěj,Hradec,Male
+406,Musil Bohuslav,06040128,Matejek,Bohuslav,Banik,Male
+407,Nagy Matyas,07080729,Hrdlicka,,,
+408,Nalezinek Filip,03070121,Muller,Filip,Sparta,Male
+409,Naprstek Matej,03070857,Neuschl,Matěj,Hradec,Male
+410,Naskos Marek,07060013,Paska,Marek,Slavia,Male
+411,Ndefe Gigli Nsungani,94032429,Bartonicek,Gigli,Slovacko,Unknown
+412,Daniel Cosme Ndiaye EI Hadji Latyr,99081824,Chrysostome,Hadji,Zlin,Unknown
+413,Daniel Cosme Ndiaye Ousmane,03041664,Chrysostome,,,
+414,Nedved Patrik,07110232,Hrdlicka,Patrik,Pardubice,Male
+415,Nechvatal Matyas,07010069,Smejkal,Matyáš,Bohemians,Male
+416,Nekvinda Tomas,07020102,Hrdlicka,Tomáš,Pardubice,Male
+417,Nemcik Rene,06110263,Rehak,René,Opava,Male
+418,Nemec Dominik,06040416,Muller,Dominik,Budejovice,Male
+419,Nemec Denis,05090084,Zika,Denis,Frydek,Male
+420,Nemecek Filip,01120424,Rehak,,,
+421,Neufus Lukas,08100268,Levy,Lukáš,Boleslav,Male
+422,Daniel Cosme Ngom Lamine Dieye,03051665,Chrysostome,,,
+423,Nguyen An Khanh Andrej,05030538,Zika,Khanh,Trinec,Female
+424,Nieslanik Tobias,05031133,Chovanec,,,
+425,Nombil Cletus Daho,00081720,Zika,Cletus,Zlin,Male
+426,Novak Adam,08060555,Muller,Adam,Plzen,Male
+427,Novak Jan,05020633,Chyba,Jan,Plzen,Male
+428,Novak Filip,09020642,Nehoda,Filip,Pardubice,Male
+429,Novak Ondrej,04090196,Hrdlicka,Ondřej,Budejovice,Male
+430,Novak Jan,05010028,Fukan,,,
+431,Penner Nicolas,01060759,Muller,Nicolas,Liberec,Male
+432,Penxa Ondrej,07030068,Paska,Ondřej,Sparta,Male
+433,Penxa Lukas,04060139,Nehoda,Lukáš,Sparta,Male
+434,Pernica Ludek,90061176,Barton,Luděk,Zbrojovka,Male
+435,Perina Viktor,07020754,Kolar,,,
+436,Pesek Jakub,93061936,Paska,Jakub,Sparta,Male
+437,Peska Dominik,01030826,Pav,Dominik,Zbrojovka,Male
+438,Peterka Jan,90041672,Smejkal,Jan,Dukla,Male
+439,Pikolon Samuel,06030374,Paska,Samuel,Slavia,Male
+440,Pineau Stepan,02020096,Rehak,Štěpán,Pisek,Male
+441,Pira Jakub,07110011,Nehoda,Jakub,Banik,Male
+442,Piralie Nicolas,06100087,Kolar,,,
+443,Pisko Milan,96030281,Barton,Milan,Vyskov,Male
+444,Pitak Elias,06030345,Zika,Eliáš,Slavia,Male
+445,Plachy Jan,98050313,Zika,,,
+446,Planeta Simon,03120083,Nehoda,Šimon,Plzen,Male
+447,Planka David,05070315,Kisel,David,Karvina,Male
+448,Plechaty Dominik,99040906,Nehoda,Dominik,Liberec,Male
+449,Plestil Dominik,99080463,Hrdlicka,Dominik,Bohemians,Male
+450,Podebradsky Tomas,08020016,Zika,Tomáš,Hradec,Male
+451,Podkalsky Jakub,06030130,Matejek,Jakub,Zbrojovka,Male
+452,Podrazil Adam,06070469,Rehak,Adam,Liberec,Male
+453,Podzimek Ondrej,01040336,Pav,Ondřej,Varnsdorf,Male
+454,Polak Daniel,06101327,Paska,Daniel,Zbrojovka,Male
+455,Polak Vojtech,08030024,Hrdlicka,Vojtěch,Hradec,Male
+456,Polansky Robin,02050747,Matejek,Robin,Budejovice,Male
+457,Polasek Marek,01050776,Simek,Marek,Lisen,Male
+458,Polasek David,06110331,Zika,David,Zbrojovka,Male
+459,Polidar Matej,99120848,Chovanec,Matěj,Pardubice,Male
+460,Polyak Tomas,01050304,Riha,Tomáš,Pardubice,Male
+461,Ponikelsky Stepan,07060045,Paska,Štěpán,Hradec,Male
+462,Port Josef,07010139,Krob,,,
+463,Pospisil Jiri,08010880,Barton,Jiří,Dukla,Male
+464,Pospisil Martin,91062111,Paska,Martin,Olomouc,Male
+465,Potmesil Petr,08010482,Hrdlicka,Petr,Slavia,Male
+466,Potocny Roman,91042074,Muller,Roman,Zbrojovka,Male
+467,Poturnay Matyas,07050131,Chyba,,,
+468,Pragr Oldrich,03050735,Chovanec,Oldřich,Zbrojovka,Male
+469,Prasek Martin,03090148,Kisel,Martin,Budejovice,Male
+470,Prazak Dominik,08020038,Kolar,Dominik,Pardubice,Male
+471,Prazak Tadeas,08020037,Kolar,Tadeáš,Pardubice,Male
+472,Prebsl Filip,03030093,Krob,Filip,Slavia,Male
+473,Preisler Dominik,95091064,Chovanec,Dominik,Liberec,Male
+474,Princ Filip,06081075,Muller,,,
+475,Prokes Martin,05020331,Nehoda,Martin,Pardubice,Male
+476,Proniuk Adam,05020262,Kolar,Adam,Olomouc,Male
+477,Provaznik Josef,08080229,Neuschl,Josef,Sparta,Male
+478,Samuel Victor Elem,06061868,Bartonicek,,,
+479,Sandev Teo,06010154,Riha,Teo,Boleslav,Male
+480,Sanneh Muhammed,00021666,Smejkal,,,
+481,Daniel Cosme Sanogo Mohamed,04111492,Chrysostome,,,
+482,Daniel Cosme Sarr Ibrahima,00111564,Chrysostome,,,
+483,Daniel Cosme Sarr Abdou Ndie,01091605,Chrysostome,,,
+484,Sedlacek Ondrej,04060466,Smejkal,Ondřej,Zivanice,Male
+485,Sedlacek Richard,99061081,Kolar,,,
+486,Sedlacek Jakub,08090844,Matejek,Jakub,Liberec,Male
+487,Sedlak Jan,94101462,Hrdlicka,Jan,Lisen,Male
+488,Sehnoutka Stepan,07030317,Paska,,,
+489,Sejk Vaclav,02050666,Hrdlicka,,,
+490,Sejkora Adam,06050708,Muller,Adam,Bohemians,Male
+491,Selnar Jakub,00040609,Hrdlicka,Jakub,Jihlava,Male
+492,Seris Marek,06030157,Simek,Marek,Karvina,Male
+493,Schanelec Tomas,02060693,Muller,Tomáš,Pardubice,Male
+494,Schick Patrik,96011352,Paska,,,
+495,Schranz Ivan,93092449,Neuschl,Ivan,Slavia,Male
+496,Siegl Patrik,07100195,Nehoda,Patrik,Olomouc,Male
+497,Silny Jan,95020901,Fukan,Jan,Lisen,Male
+498,Singhateh Ebrima,03091708,Smejkal,Ebrima,Karvina,Unknown
+499,Sirotnik Jan,02040588,Levy,Jan,Slavia,Male
+500,Skacel Krystof,08010448,Hrdlicka,Kryštof,Olomouc,Male
+501,Skala Daniel,08050452,Nehoda,Daniel,Pardubice,Male
+502,Skohoutil Patrik,04110451,Rehak,,,
+503,Skokan Michal,09030015,Nehoda,Michal,Pardubice,Male
+504,Skokanek Daniel,04030575,Bartonicek,Daniel,Komarov,Male
+505,Skorepa Matej,04060609,Muller,Matěj,Kolin,Male
+506,Slaby Ivan,08011729,Muller,Ivan,Dukla,Male
+507,Sladek Martin,04070370,Martinovic,Martin,Jihlava,Male
+508,Slama Jiri,99010353,Riha,Jiří,Olomouc,Male
+509,Slanina Patrick,05060084,Paska,Patrick,Sparta,Male
+510,Slavata Filip,04080713,Krob,Filip,Slavia,Male
+511,Slavicek Filip,02090863,Matejek,Filip,Olomouc,Male
+512,Sloncik Tom,04120326,Paska,Tom,Plzen,Male
+513,Sloncik Simon,07050012,Paska,Šimon,Slavia,Male
+514,Smejkal Tomas,98070336,Krob,Tomáš,Zbrojovka,Male
+515,Smejkal Marek,04020624,Hrdlicka,Marek,Budejovice,Male
+516,Smekal Daniel,01120229,Vrto,,,
+517,Snizek Michal,02040593,Rehak,Michal,Kolin,Male
+518,Sodoma Jiri,95010611,Barton,Jiří,Zizkov,Male
+519,Sochurek Hugo,08060203,Paska,Hugo,Sparta,Male
+520,Sojka Alexandr,03040033,Smejkal,Alexandr,Plzen,Male
+521,Sokol Petr,06010289,Smejkal,,,
+522,Sokol Pavel,96070361,Fukan,Pavel,Lisen,Male
+523,Solil Tomas,00020021,Kolar,Tomáš,Pardubice,Male
+524,Soliu Afolabi,05081824,Simek,Afolabi,Taborsko,Unknown
+525,Sosna Adam,07010192,Kolar,,,
+526,Soucek Marek,07030295,Nehoda,Marek,Zbrojovka,Male
+527,Tesar Jiri,04100273,Paska,Jiří,Kladno,Male
+528,Teterya Roman,06010510,Muller,Roman,Boleslav,Male
+529,Tetour Daniel,94071137,Bartonicek,,,
+530,Tetour Daniel,94071137,Bartonicek,,,
+531,Daniel Cosme Thiandoum Abdou,05021528,Chrysostome,,,
+532,Tkac David,02070219,Kisel,David,Zlin,Male
+533,Tlacbaba Patrik,08090384,Paska,Patrik,Mladeze,Male
+534,Daniel Cosme Tolno Emmanuel,00071784,Chrysostome,Emmanuel,Pribram,Male
+535,Toman Ales,08091246,Matejek,Aleš,Zbrojovka,Male
+536,Toman Zdenek,05091415,Matejek,Zdeněk,Zbrojovka,Male
+537,Tomanek Vojtech,08020044,Paska,Vojtěch,Slavia,Male
+538,Tomas David,05020287,Muller,David,Chomutov,Male
+539,Toml Martin,96031404,Zika,Martin,Chrudim,Male
+540,Tosnar Jakub,06030046,Muller,Jakub,Sparta,Male
+541,Toula Adam,02020395,Paska,Adam,Zizkov,Male
+542,Toula Daniel,05020239,Kisel,Daniel,Slavia,Male
+543,Daniel Cosme Toure Yaya Kader,00041771,Chrysostome,,,
+544,Toyin Mustapha Olanrewaju,04011629,Smejkal,,,
+545,Trachtova Adela,07050882,Barton,,,
+546,Traore Aboubacar,04081690,Simek,,,
+547,Trefil Jakub,01020357,Nehoda,,,
+548,Trnovec Michal,04090451,Rehak,,,
+549,Trubac Daniel,97070905,Kolar,Daniel,Teplice,Male
+550,Tsykalo Yehor,01091586,Chovanec,Yehor,Teplice,Unknown
+551,Turecek Miroslav,98101048,Pav,Miroslav,Usti n. Labem,Male
+552,Turek Jan,06020651,Levy,,,
+553,Tvrdon Marian,94082021,Nehoda,Marián,Plzen,Male
+554,Tvrdy Simon,04030488,Hrdlicka,Šimon,Chlumec n. Cidlinou,Male
+555,Uhrincat Jakub,01021543,Kisel,Jakub,Sparta,Male
+556,Ukici Altin,05051831,Martinovic,Altin,Liberec,Male
+557,Ulbrich Tom,98050525,Chovanec,Tom,Vyskov,Male
+558,Ullman Ondrej,00040057,Hrdlicka,Ondřej,Dukla,Male
+559,Ulman Filip,03050975,Bartonicek,Filip,Loko Praha,Male
+560,Ulrich Filip,03070191,Kisel,Filip,Lisen,Male
+561,Urban Tomas,07050386,Paska,Tomáš,Pardubice,Male
+562,Urbanec Jakub,92042050,Barton,Jakub,Teplice,Male
+563,Urica Filip,03090271,Paska,Filip,Olomouc,Male
+564,Urica Adam,05070031,Paska,Adam,Olomouc,Male
+565,Usman Hassan,02041750,Hrdlicka,Hassan,Varnsdorf,Male
+566,Usor Moses,02021623,Smejkal,,,
+567,Uwalakaji Chinedu Brain,04121580,Smejkal,,,
+568,Vacek Benjamin,07020428,Hrdlicka,Benjamin,Plzen,Male
+569,Vaclavik Daniel,08010199,Kolar,Daniel,Hradec,Male
+570,Vagenknecht Jan,07030321,Nehoda,,,
+571,Vagner Matyas,03020126,Paska,Matyáš,Hradec,Male
+572,Vachousek Tadeas,04010223,Kolar,,Teplice,Unknown
+573,Vais Adam,04020587,Rehak,Adam,Admira,Male
+574,Vais Jonas,99110981,Zika,Jonáš,Domazlice,Male
+575,Vajgl Stepan,05070062,Hrdlicka,,,
+576,Kosar Jakub,01070774,Chovanec,Jakub,Varnsdorf,Male
+577,Kosek Daniel,01050805,Konig,Daniel,Chrudim,Male
+578,Kostelny Krystof,08021004,Krob,Kryštof,Zbrojovka,Male
+579,Kostka Lukas,07070851,Smejkal,Lukáš,Jablonec,Male
+580,Kosikova Kristina,93121967,Nehoda,,,
+581,Kotisek Vincent,08040801,Kolar,,,
+582,Kotisek Maxim,08040802,Kolar,Maxim,Sparta,Male
+583,Kotoun Adam,06070545,Hrdlicka,,,
+584,Kotrba Matej,07110361,Paska,Matěj,Slavia,Male
+585,Kotrba Damian,06020086,Nehoda,Damián,Sparta,Male
+586,Koubek Matej,00010422,Nehoda,Matěj,Hradec,Male
+587,Koubek Tomas,92081944,Kolar,,,
+588,Koutecky Filip,04050267,Rehak,Filip,Admira,Male
+589,Koutny Jan,04100231,Kisel,Jan,Olomouc,Male
+590,Kovar Petr,07020565,Riha,Petr,Unicov,Male
+591,Kovar Matej,00050895,Kolar,,,
+592,Kowalczyk Tadeas,06010232,Smejkal,Tadeáš,Banik,Male
+593,Kozak Matyas,01050146,Riha,Matyáš,Slovacko,Male
+594,Kozel David,01110942,Paska,,,
+595,Kozma Daniel,95081542,Hrdlicka,Daniel,Dukla,Male
+596,Kozojed Jan,02080353,Krob,Jan,Chrudim,Male
+597,Kozeluh Josef,02020591,Kolar,Josef,Liberec,Male
+598,Kral Alex,98051031,Kisel,,,
+599,Kral Jan,99040194,Muller,Jan,Olomouc,Male
+600,Kral Richard,09010334,Smejkal,,,
+601,Kral Tomas,04100706,Hrdlicka,Tomáš,Boleslav,Male
+602,Kralik Martin,95041921,Kisel,Martin,Boleslav,Male
+603,Kramar Tim,07060054,Kisel,Tim,Opava,Male
+604,Kramar Denis,03080220,Kisel,Denis,Olomouc,Male
+605,Kratochvil Milos,96041472,Neuschl,,,
+606,Kratochvil Jakub,09010766,Konig,Jakub,Slavia,Male
+607,Krejci Simon,04020838,Bartonicek,Šimon,Dukla,Male
+608,Kremr Vaclav,06030485,Hrdlicka,Václav,Slovacko,Male
+609,Krenciv Nikolas,03120516,Nehoda,Nikolas,Loko Praha,Male
+610,Kricfalusi Ondrej,04030180,Kolar,Ondřej,Teplice,Male
+611,Krizan Richard,97091796,Zika,Richard,Budejovice,Male
+612,Krmencik Michael,93031246,Smejkal,,Slovacko,Unknown
+613,Krobot Ladislav,01040002,Nehoda,Ladislav,Pardubice,Male
+614,Kromer Matej,04010168,Pav,,,
+615,Kroupova Lucie,07030019,Kolar,,,
+616,Krpalek Dennis,07101292,Barton,Dennis,Sparta,Male
+617,Krulich Matous,05040245,Paska,,,
+618,Krupicka David,05050444,Zika,David,Banik,Male
+619,Kruta Milan,03100502,Konig,Milan,Petrin Plzen,Male
+620,Krynskyi Volodymyr,97011949,Martinovic,,,
+621,Krapka Antonin,94011512,Krob,Antonín,Bohemians,Male
+622,Krehlik Miroslav,03050283,Muller,Miroslav,Jihlava,Male
+623,Kremen Denis,08010491,Hrdlicka,Denis,Sparta,Male
+624,Kristal Vojtech,99070505,Kolar,Vojtěch,Olomouc,Male
+625,Kristan Jakub,02070177,Kolar,Jakub,Slovacko,Male
+626,Novak Vojtech,05120045,Smejkal,Vojtěch,Sparta,Male
+627,Novak Vojtech,02010675,Paska,Vojtěch,Bohemians,Male
+628,Novotny Lukas,06060296,Vrto,Lukáš,Slovacko,Male
+629,Obdrzalek Marek,07030341,Nehoda,,Boleslav,Unknown
+630,Obuch Maxim,04100163,Zika,Maxim,Frydek,Male
+631,Odiase Peter,07120773,Hrdlicka,,,
+632,Odiase Christopher,06101038,Hrdlicka,,,
+633,Ogbu Emmanuel Chidubem,05081823,Simek,Emmanuel,Banik,Male
+634,Ogungbayi Boluwatife Victor,04051659,Smejkal,,,
+635,Ojora Mustapha Adio,04081710,Simek,Adio,Karvina,Unknown
+636,Okeh Emmanuel Orji,03121410,Smejkal,,,
+637,Okeke Nelson,02031696,Martinovic,Nelson,Sparta,Male
+638,Okoromi David,02041739,Simek,David,Slovacko,Male
+639,Olatunji Victor Oluyemi,99091785,Zika,Victor,Sparta,Male
+640,Olayiwola Samson Oni,05091853,Simek,,Slovacko,Unknown
+641,Omale Solomon,01011686,Kisel,Solomon,Opava,Male
+642,Ondo Marek,07051021,Hrdlicka,,,
+643,Ondrousek Radek,08060185,Smejkal,Radek,Sparta,Male
+644,Onuoha Abuchi,04011625,Simek,Abuchi,Slovacko,Unknown
+645,Orlov Mihhail,04061715,Smejkal,,,
+646,Orsag Samuel,01061723,Hrdlicka,,,
+647,Osmancik Pavel,00021216,Krob,Pavel,Budejovice,Male
+648,Osmani Enes,04020296,Nehoda,Enes,Sparta,Male
+649,Osuagwu Victor Uchechukwu,03121409,Smejkal,,,
+650,Ovesny Radek,04070287,Nehoda,Radek,Zlin,Male
+651,Paar Adam,08040041,Muller,Adam,Slavia,Male
+652,Palan Jakub,06061149,Krob,Jakub,Motorlet,Male
+653,Palenik Daniel,01010982,Chovanec,,,
+654,Palivec Jachym,07010644,Krob,Jáchym,Slavia,Male
+655,Paluska Jan,05060435,Kolar,Jan,Plzen,Male
+656,Panak Filip,95110067,Chyba,Filip,Sparta,Male
+657,Pancev Krystof,05120174,Zika,Kryštof,Dukla,Male
+658,Pancev Vojtech,07080714,Nehoda,Vojtěch,Sparta,Male
+659,Pandula Daniel,04010234,Smejkal,Daniel,Pardubice,Male
+660,Panos Jiri,07110188,Kolar,Jiří,Plzen,Male
+661,Pantok Tomas,05060598,Fukan,,,
+662,Pastyrik Martin,08020646,Paska,Martin,Slavia,Male
+663,Patrak Vojtech,00031503,Muller,Vojtěch,Pardubice,Male
+664,Pavelka Daniel,09030977,Hrdlicka,,,
+665,Pavlenka Jiri,92041101,Kolar,,,
+666,Pavlik Ondrej,06060245,Riha,Ondřej,Sparta,Male
+667,Pavlo Simon,07070136,Hrdlicka,Simon,Sparta,Male
+668,Pawlik Arkadius,07011552,Smejkal,Arkadius,Slavia,Male
+669,Pech Dominik,06090152,Hrdlicka,Dominik,Slavia,Male
+670,Pech David,02020853,Kolar,David,Dukla,Male
+671,Pejsa Sebastian,04110204,Kisel,Sebastian,Opava,Male
+672,Pekarek Jan,07050271,Levy,,,
+673,Provod Lukas,96101114,Hrdlicka,Lukáš,Slavia,Male
+674,Pribylka Patrik,07010213,Muller,,,
+675,Psenica Jiri,09050925,Matejek,Jiří,Olomouc,Male
+676,Pudil Adam,05040081,Smejkal,Adam,Vlasim,Male
+677,Pudil Milos,05040080,Smejkal,Miloš,Vlasim,Male
+678,Pulkrab Matej,97051329,Paska,Matěj,Boleslav,Male
+679,Puskac David,93051107,Matejek,David,Pardubice,Male
+680,Raab Lukas,00010235,Vrto,Lukáš,Lisen,Male
+681,Raban Samuel,08040429,Paska,Samuel,Sparta,Male
+682,Radosta Matej,01050413,Krob,Matěj,Teplice,Male
+683,Rajsnerova Kristyna,09020136,Barton,,,
+684,Rajtmajer Lukas,04030404,Hrdlicka,Lukáš,Pisek,Male
+685,Rama Elmedin,05031721,Martinovic,Elmedin,Slavia,Male
+686,Rancova Denisa,08030043,Nehoda,,,
+687,Rebibo Jeremy,05100231,Muller,Jeremy,Loko Praha,Male
+688,Regal Jakub,06030253,Nehoda,Jakub,Dukla,Male
+689,Reichl Michal,92091050,Matejek,Michal,Bohemians,Male
+690,Reichl Vladimir,04010673,Pav,,,
+691,Reil Martin,06050871,Paska,Martin,Pardubice,Male
+692,Rejman Denis,06030270,Rehak,,,
+693,Remes David,07020067,Hrdlicka,David,Olomouc,Male
+694,Ret Tomas,05060689,Hrdlicka,Tomáš,Pribram,Male
+695,Ret Filip,05060688,Hrdlicka,Filip,Pribram,Male
+696,Reteno Elekana Guy,96091740,Hrdlicka,Elekana,Banik,Unknown
+697,Rezek Adam,05110077,Nehoda,Adam,Slavia,Male
+698,Richter Adam,98061411,Kisel,Adam,Opava,Male
+699,Richter Marek,98051305,Neuschl,Marek,Zizkov,Male
+700,Ritter Tobias,08100281,Paska,Tobias,Mladeze,Male
+701,Rolinek Martin,00061433,Vrto,Martin,Lisen,Male
+702,Rott Frantisek,04010443,Chovanec,František,Loko Praha,Male
+703,Roubicek Marek,08060206,Paska,Marek,Bohemians,Male
+704,Rozanek Karel,05030304,Nehoda,,,
+705,Rus Daniel,06020642,Kolar,Daniel,Sparta,Male
+706,Rusek Antonin,99031069,Kolar,,,
+707,Ruta Filip,07020359,Levy,Filip,Plzen,Male
+708,Ruzicka Ondrej,06061257,Hrdlicka,Ondřej,Bohemians,Male
+709,Ruzicka Martin,04100187,Rehak,,,
+710,Rychly Adam,98091279,Hrdlicka,,,
+711,Rynes Matej,01051231,Nehoda,Matěj,Sparta,Male
+712,Rehak Jakub,08080126,Nehoda,Jakub,Banik,Male
+713,Rehak Jakub,07030103,Krob,Jakub,Plzen,Male
+714,Rezak Robin,07010157,Rehak,,,
+715,Riha Ferdinand,05010349,Nehoda,Ferdinand,Sparta,Male
+716,Riha Vaclav,08041151,Hrdlicka,Václav,Mladeze,Male
+717,Saal Lukas,06020486,Kolar,Lukas,Sparta,Male
+718,Sacek Michal,96090982,Riha,,,
+719,Sadilek Michal,99051534,Nehoda,,,
+720,Sadilek Lukas,96051314,Chyba,Lukáš,Sparta,Male
+721,Samek Daniel,04020420,Hrdlicka,Daniel,Hradec,Male
+722,Samko Denny,00071053,Krob,Denny,Karvina,Male
+723,Liska Matej,09020016,Hrdlicka,Matěj,Plzen,Male
+724,Liska Jan,06100565,Hrdlicka,Jan,Sparta,Male
+725,Liska Jakub,05010390,Chovanec,,,
+726,Lores Carlos,07010827,Matejek,Carlos,Banik,Male
+727,Louzecky Dominik,05030511,Nehoda,Dominik,Budejovice,Male
+728,Ludvicek David,01080979,Krob,David,Dukla,Male
+729,Ludvik Jan,03080822,Pav,,,
+730,Lukasek Ondrej,04040758,Chovanec,Ondřej,Motorlet,Male
+731,Lukasova Olivie,01060152,Kolar,,,
+732,Luksch Matej,98061040,Zika,,,
+733,Macej Daniel,04040732,Kolar,,,
+734,Macek Roman,97040996,Kolar,,,
+735,Mach Jan,00100007,Muller,Jan,Taborsko,Male
+736,Machalik David,96061182,Hrdlicka,David,Zlin,Male
+737,Macharacek David,06040939,Kolar,,Olomouc,Unknown
+738,Machu Stepan,04020472,Smejkal,Štěpán,Pardubice,Male
+739,Malek Metodej,03010763,Nehoda,,,
+740,Malek Michal,05070697,Zika,Michal,Banik,Male
+741,Maly Matej,06101080,Nehoda,Matěj,Banik,Male
+742,Mandous Ales,92041580,Levy,Aleš,Slavia,Male
+743,Daniel Cosme Mara Kamso,94121769,Chrysostome,,,
+744,Marecek Daniel,98051655,Muller,Daniel,Boleslav,Male
+745,Marek Patrik,06090009,Levy,Patrik,Boleslav,Male
+746,Mares Vojtech,99060240,Levy,,,
+747,Daniel Cosme Maria Samsidine,04121605,Chrysostome,,,
+748,Markes Jakub,09040624,Nehoda,Jakub,Budejovice,Male
+749,Markovic Jakub,01070503,Konig,Jakub,Banik,Male
+750,Masopust Lukas,93020860,Paska,Lukáš,Slavia,Male
+751,Masek Petr,09090938,Nehoda,Petr,Plzen,Male
+752,Masek Lukas,04050208,Kolar,Lukáš,Boleslav,Male
+753,Masek Ondrej,09040189,Smejkal,Ondřej,Slavia,Male
+754,Matejka Lukas,97120842,Smejkal,Lukáš,Dukla,Male
+755,Matocha Marek,97070118,Matejek,Marek,Prostejov,Male
+756,Matousek Filip,01070467,Konig,Filip,Dukla,Male
+757,Matousek Jan,98050417,Hrdlicka,Jan,Bohemians,Male
+758,Matousek Jakub,98040563,Nehoda,Jakub,Budejovice,Male
+759,Matusinsky Lukas,07051253,Nehoda,Lukáš,Opava,Male
+760,Matys Matyas,08030140,Hrdlicka,Matyáš,Plzen,Male
+761,Matys Frantisek,02080160,Kisel,František,Olomouc,Male
+762,Daniel Cosme MBODJI EL,04011669,Chrysostome,,,
+763,Meindlschmid Petr,06010148,Konig,,,
+764,Mejdr Jan,95050637,Krob,,,
+765,Mekota Patrik,04030432,Nehoda,Patrik,Banik,Male
+766,Mervard Matyas,05070180,Barton,Matyáš,Motorlet,Male
+767,Meznik Albert,07010846,Kolar,Albert,Zbrojovka,Male
+768,Micek Jiri,07060017,Zika,Jiří,Banik,Male
+769,Mihalik Ondrej,97040077,Kolar,Ondřej,Hradec,Male
+770,Michal Kristian,00111023,Riha,Kristian,Liberec,Male
+771,Krivanek Jan,08100058,Kolar,Jan,Zbrojovka,Male
+772,Krivska Karolina,97030989,Nehoda,,,
+773,Kubala Filip,99090069,Konig,Filip,Banik,Male
+774,Kubes Jan,09050812,Nehoda,,,
+775,Kubes Adam,09030073,Paska,Adam,Olomouc,Male
+776,Kubr Lucas,04021586,Zika,Lucas,Zbrojovka,Male
+777,Kubrycht Matyas,07020078,Hrdlicka,Matyáš,Plzen,Male
+778,Kubu Patrik,08080643,Paska,Patrik,Slavia,Male
+779,Kucera Jakub,97011557,Matejek,Jakub,Hradec,Male
+780,Kucera Tomas,91071554,Nehoda,,,
+781,Kudela Martin,03010833,Konig,Martin,Slovacko,Male
+782,Kuhn Dominik,07060617,Levy,Dominik,Jablonec,Male
+783,Kuchar Petr,08020092,Nehoda,Petr,Banik,Male
+784,Kukucka Ondrej,04030748,Paska,Ondřej,Sparta,Male
+785,Kulas Martin,09020040,Hrdlicka,,,
+786,Kulenovic Luka,99091793,Bartonicek,,,
+787,Kulha Martin,04010477,Riha,Martin,Liberec,Male
+788,Kulhanek Matej,07030855,Hrdlicka,Matěj,Teplice,Male
+789,Kulig Samuel,01060772,Kisel,,,
+790,Kulyk Martin,07030375,Zika,Martin,Banik,Male
+791,Kusej Vasil,00051236,Martinovic,Vasil,Boleslav,Male
+792,Kutik Daniel,04050292,Hrdlicka,Daniel,Chrudim,Male
+793,Kuzebouch Pavel,09030156,Chyba,Pavel,Plzen,Male
+794,Kvacek Matej,07050428,Kolar,Matěj,Pardubice,Male
+795,Kvet Roman,97120685,Zika,,,
+796,Labik Albert,04050325,Chovanec,Albert,Teplice,Male
+797,Lacik Barnabas,02050184,Chovanec,Barnabáš,Vyskov,Male
+798,Lacko Jan,06010213,Paska,Jan,Motorlet,Male
+799,Ladra Tomas,97041330,Nehoda,Tomáš,Boleslav,Male
+800,Lakomy Patrik,08030287,Hrdlicka,,,
+801,Langhamer Daniel,03030588,Chovanec,Daniel,Boleslav,Male
+802,Lapes Jakub,99070160,Chyba,Jakub,Karvina,Male
+803,Lasek David,08080336,Barton,David,Sparta,Male
+804,Latal David,03010595,Paska,David,Chrudim,Male
+805,Daniel Cosme LEBE Morel,05101681,Chrysostome,,,
+806,Lecjaks Jan,90080636,Levy,,,
+807,Lehky Filip,02060710,Simek,Filip,Vlasim,Male
+808,Lehoczki Ondrej,98020432,Levy,Ondřej,Opava,Male
+809,Letacek Jiri,99010405,Kolar,,,
+810,Lexa Milan,04080453,Riha,Milan,Varnsdorf,Male
+811,Lexa Martin,08050402,Kolar,Martin,Plzen,Male
+812,Lhotecky Claude,01020880,Nehoda,,,
+813,Lidak Lukas,08040117,Hrdlicka,Lukáš,Olomouc,Male
+814,Ligac Radek,05050642,Smejkal,Radek,Hlubina,Male
+815,Lichtenberg Krystof,02110892,Kolar,Kryštof,Varnsdorf,Male
+816,Lingr Ondrej,98100301,Matejek,Ondřej,Slavia,Male
+817,Linhart Lukas,08030176,Hrdlicka,Lukáš,Plzen,Male
+818,Lischka David,97080769,Matejek,David,Banik,Male
+819,Kejr Marek,01070469,Nehoda,Marek,Chrudim,Male
+820,Keller Martin,96120527,Barton,Martin,Benatky n. Jizerou,Male
+821,Kerl Daniel,01010560,Matejek,Daniel,Taborsko,Male
+822,Kim Seung Bin,00121438,Kolar,Bin,Slovacko,Unknown
+823,Kindimann Stepan,07110069,Matejek,,Pribram,Unknown
+824,Kinsky Antonin,03030380,Kolar,Antonín,Slavia,Male
+825,Kliestik Samuel,07120121,Nehoda,,Boleslav,Unknown
+826,Klima Daniel,08060144,Paska,Daniel,Zbrojovka,Male
+827,Klima Jiri,97010225,Nehoda,Jiří,Banik,Male
+828,Klima Dominik,07050781,Hrdlicka,Dominik,Bohemians,Male
+829,Kliment Jan,93090025,Nehoda,Jan,Olomouc,Male
+830,Klimes Vitezslav,06010167,Nehoda,Vítězslav,Plzen,Male
+831,Kloud Karel,07060291,Nehoda,Karel,Budejovice,Male
+832,Knapik Jan,00120349,Hrdlicka,,,
+833,Kneifel Jonas,02031058,Muller,Jonáš,Chlumec n. Cidlinou,Male
+834,Knobloch Milan,92081739,Zika,Milan,Karvina,Male
+835,Kocman Ales,04100176,Smejkal,,,
+836,Kocour Tomas,07040800,Hrdlicka,Tomáš,Boleslav,Male
+837,Koci Ales,02030532,Kisel,Aleš,Slovacko,Male
+838,Kocka Lukas,04050559,Rehak,Lukáš,Liberec,Male
+839,Kocvara Filip,07030035,Hrdlicka,Filip,Slavia,Male
+840,Kodera Matyas,08060777,Smejkal,Matyáš,Boleslav,Male
+841,Kodes Matej,07040655,Hrdlicka,Matěj,Teplice,Male
+842,Kodes Petr,96011768,Hrdlicka,Petr,Hradec,Male
+843,Kodydek Matyas,01080260,Konig,Matyáš,Domazlice,Male
+844,Daniel Cosme Koffi Ypote Boris,05081813,Chrysostome,Boris,Slavia,Male
+845,Kohout Dan,06080567,Muller,Dan,Slavia,Male
+846,Kohout Lukas,07050305,Muller,Lukáš,Chrudim,Male
+847,Kohoutek Ales,04020021,Rehak,,,
+848,Kohut Michal,00060133,Kolar,Michal,Slovacko,Male
+849,Kok Olaf,02011681,Riha,Olaf,Liberec,Male
+850,Kolar Jakub,00010755,Kolar,Jakub,Zlin,Male
+851,Kolar Filip,05060426,Hrdlicka,Filip,Boleslav,Male
+852,Kolarik Jan,06050225,Nehoda,Jan,Slovacko,Male
+853,Kolarik Josef,07010427,Paska,Josef,Slavia,Male
+854,Koleckar Vladimir,04110671,Nehoda,,,
+855,Kolodziej Tomas,04020406,Nehoda,Tomáš,Banik Most,Male
+856,Komarek Dominik,07060354,Chyba,Dominik,Zbrojovka,Male
+857,Konecny Mikulas,06060090,Muller,Mikuláš,Slavia,Male
+858,Konecny Stepan,07030388,Chovanec,Štěpán,Zbrojovka,Male
+859,Konig Adam,03090149,Rehak,Adam,Boleslav,Male
+860,Kopr Tomas,05060433,Fukan,Tomáš,Slovacko,Male
+861,Kopriva Jakub,98041692,Barton,Jakub,Ceska Lipa,Male
+862,Korac Duje,05061910,Martinovic,,,
+863,Korenc Jachym,07080669,Levy,Jáchym,Slavia,Male
+864,Korselt Matyas,04040154,Chyba,Matyáš,Teplice,Male
+865,Korycan Tadeas,02110087,Hrdlicka,Tadeáš,Kromeriz,Male
+866,Korinek Hubert,08020786,Barton,Hubert,Sparta,Male
+867,Kos Lukas,04110291,Chovanec,Lukáš,Rosice,Male
+868,Wenke Eduard,09080172,Hrdlicka,,,
+869,Wexler Shaked,03061666,Rehak,,,
+870,Wiesner Tomas,97070907,Muller,Tomáš,Sparta,Male
+871,Winter Krystof,06020260,Smejkal,Kryštof,Boleslav,Male
+872,Wojatschke Vojtech,02010967,Kisel,,,
+873,Wolfl Simon,07020704,Paska,Šimon,Budejovice,Male
+874,Yahaya Mohammed Marzug,04011630,Smejkal,Mohammed,Pardubice,Male
+875,Yakubu Aliyu,00121492,Simek,Aliyu,Trinec,Unknown
+876,Yohanna Emmanuel,03011502,Simek,,,
+877,Yunis Jakub,96031408,Kisel,,,
+878,Yuzvak Andriy,01021248,Smejkal,Andriy,Varnsdorf,Male
+879,Zadorozhnii Vladyslav,09021725,Nehoda,,Slavia,Unknown
+880,Zadrazil Adam,00080254,Chovanec,Adam,Hradec,Male
+881,Zahradnicek Vaclav,06020165,Smejkal,,Olomouc,Unknown
+882,Zacharias Robin,06080938,Levy,,Liberec,Unknown
+883,Zachoval Matej,05040123,Nehoda,Matěj,Slavia,Male
+884,Zajac Dominik,08060380,Paska,Dominik,Banik,Male
+885,Zajic Tomas,96080622,Rehak,Tomáš,Vyskov,Male
+886,Zalesak Roman,01010598,Krob,Roman,Varnsdorf,Male
+887,Zamazal Denis,06110450,Konig,Denis,Dukla,Male
+888,Zaplatilek Matej,05060173,Hrdlicka,Matěj,Boleslav,Male
+889,Zapletal Michal,98071618,Fukan,Michal,Prostejov,Male
+890,Zastresek Matous,07010390,Matejek,Matouš,Banik,Male
+891,Zbranek Martin,04100419,Vrto,Martin,Zlinsko,Male
+892,Zeleny Jaroslav,92081486,Muller,Jaroslav,Sparta,Male
+893,Zelina Kristian,06030548,Konig,Kristián,Slovacko,Male
+894,Zelinger Jan,07040391,Paska,Jan,Pardubice,Male
+895,Zeman Jakub,05090681,Hrdlicka,Jakub,Hradec,Male
+896,Zeman Vladimir,00090509,Martinovic,Vladimír,Bohemians,Male
+897,Zifcak Pavel,99030046,Riha,Pavel,Pardubice,Male
+898,Zika Petr,06070270,Zika,Petr,Budejovice,Male
+899,Zika Jan,06020004,Chyba,,,
+900,Zikl Martin,99060658,Fukan,Martin,Start Brno,Male
+901,Zima Tomas,06120200,Chovanec,,,
+902,Zima Lukas,94010556,Kolar,,,
+903,Zima Jiri,07120208,Kolar,Jiří,Pardubice,Male
+904,Zima David,00110274,Paska,David,Slavia,Male
+905,Zlatkovsky Lukas,07020499,Vrto,Lukáš,Slovacko,Male
+906,Zlatohlavek Tomas,00051094,Muller,Tomáš,Pardubice,Male
+907,Zmrhal Jaromir,93080052,Kisel,,,
+908,Zoicas Samuel,04040594,Hrdlicka,,,
+909,Zouhar Adam,07011155,Smejkal,Adam,Sparta,Male
+910,Zak Dominik,00041430,Krob,Dominik,Karvina,Male
+911,Zak Filip,95090004,Bartonicek,Filip,Prostejov,Male
+912,Zitny Matej,05010077,Krob,Matěj,Slavia,Male
+913,Zitny Patrik,99011006,Hrdlicka,Patrik,Boleslav,Male
+914,Zizala Frantisek,07100723,Levy,František,Zizkov,Male
+915,Zizkova Natalie,07120008,Nehoda,,,
+916,Jarkovsky Max,03030415,Rehak,Max,Zivanice,Male
+917,Jaron Marek,01081195,Matejek,Marek,Banik,Male
+918,Jaron Petr,01081196,Matejek,Petr,Banik,Male
+919,Jaros Vitezslav,01070915,Kolar,,,
+920,Jedlicka Matyas,04060449,Martinovic,Matyáš,Sparta,Male
+921,Jedlicka Martin,98011153,Kolar,Martin,Plzen,Male
+922,Jemelka Vaclav,95061404,Konig,Václav,Plzen,Male
+923,Jerabek Jakub,01040685,Neuschl,Jakub,Dukla,Male
+924,Jerabek Michal,95020370,Fukan,Michal,Lisen,Male
+925,Jerabek Miloslav,07050134,Hrdlicka,Miloslav,Zlin,Male
+926,Jerabek David,07050135,Hrdlicka,David,Zlin,Male
+927,Jerabek Tomas,08070277,Riha,Tomáš,Sparta,Male
+928,Jilkova Vanesa,05080590,Nehoda,,,
+929,Jindra Vaclav,06040299,Kolar,Václav,Pardubice,Male
+930,Jirka Erik,97091746,Smejkal,Erik,Plzen,Male
+931,Jonas Tomas,01051135,Barton,,,
+932,Jonathan Justice Sylvester,05071900,Simek,,,
+933,Julis Petr,03040534,Kolar,Petr,Hradec,Male
+934,Julis Lukas,94120066,Riha,Lukáš,Olomouc,Male
+935,Jurasek Matej,03080867,Rehak,Matěj,Slavia,Male
+936,Jurcenko David,04010893,Hrdlicka,David,Hradec,Male
+937,Juritka Peter,04071705,Riha,,,
+938,Juroska Pavel,01070257,Konig,Pavel,Slovacko,Male
+939,Juroska Jan,93030104,Konig,Jan,Banik,Male
+940,Kabongo Christophe,03080746,Krob,,Plzen,Unknown
+941,Kaczmarek Filip Kacper,07010768,Riha,Filip,Sparta,Male
+942,Kacor Pavel,06090215,Matejek,Pavel,Slavia,Male
+943,Kadlec Matej,02040130,Zika,Matěj,Bohemians,Male
+944,Kadlec Vaclav,92051579,Paska,Václav,Milin,Male
+945,Kadlec Adam,03070154,Kisel,Adam,Bohemians,Male
+946,Kadlec Jan,99020343,Pav,,,
+947,Kalabus Maxim,07090617,Bartonicek,Maxim,Slavia,Male
+948,Kalas Tomas,93051162,Kolar,,,
+949,Kalvach Lukas,95071167,Konig,Lukáš,Plzen,Male
+950,Kam Sami Fabrice Badra,04071697,Simek,Fabrice,Zlinsko,Male
+951,Kamenik Frantisek,07020643,Hrdlicka,František,Hradec,Male
+952,Karabec Adam,03070036,Paska,,,
+953,Kareem Peter Oluwajuwonlo,03081722,Smejkal,Peter,Vlasim,Male
+954,Kares Jan,07010327,Nehoda,Jan,Pribram,Male
+955,Kasa Filip,94010010,Nehoda,,,
+956,Kaspirek Jakub,04060192,Muller,,,
+957,Kastanek Daniel,03030338,Kisel,Daniel,Hradec,Male
+958,Kaulfus Denis,04060068,Hrdlicka,Denis,Boleslav,Male
+959,Kaulfus Petr,08050189,Hrdlicka,Petr,Boleslav,Male
+960,Kayamba Joel Ngandu,92042396,Smejkal,,,
+961,Kaza Filip,05010660,Nehoda,Filip,Dukla,Male
+962,Kedron David,04060443,Rehak,David,Frydek,Male
+963,Hrdlicka Vlastimil,06100601,Chyba,Vlastimil,Slovacko,Male
+964,Hrdlicka Lukas,01040085,Konig,Lukáš,Prostejov,Male
+965,Hrubes Stepan,08010184,Hrdlicka,Štěpán,Bohemians,Male
+966,Hrubes Jiri,01020088,Krob,Jiří,Chrudim,Male
+967,Hruby Robert,94041939,Muller,Robert,Bohemians,Male
+968,Hruby Martin,04030465,Zika,Martin,Vyskov,Male
+969,Hruby Ales,07090006,Muller,Aleš,Sparta,Male
+970,Hruska Hynek,04020677,Kolar,Hynek,Sparta,Male
+971,Hruska Frantisek,08060746,Nehoda,František,Banik,Male
+972,Hruska Josef,08060745,Nehoda,Josef,Banik,Male
+973,Hubacek Marek,08051041,Hrdlicka,Marek,Plzen,Male
+974,Hubicka David,07020207,Matejek,David,Slavia,Male
+975,Hublik Oliver,07080197,Vrto,Oliver,Zbrojovka,Male
+976,Hudak Jakub,04050793,Matejek,Jakub,Varnsdorf,Male
+977,Hudec Jiri,02090866,Bartonicek,Jiří,Kolin,Male
+978,Huf David,99011113,Rehak,David,Pardubice,Male
+979,Hulka Lukas,95031927,Kolar,Lukáš,Bohemians,Male
+980,Huna Kevin,05040329,Neuschl,Kevin,Olomouc,Male
+981,Hunal Eric,05010279,Nehoda,Eric,Slavia,Male
+982,Hybs Matej,93010126,Smejkal,Matěj,Bohemians,Male
+983,Hycka Alois,90071708,Levy,,,
+984,Hypsman Daniel,03010757,Rehak,Daniel,Hradec,Male
+985,Chab Adam,09010273,Paska,Adam,Budejovice,Male
+986,Chaloupek Stepan,03030216,Hrdlicka,Štěpán,Slavia,Male
+987,Chalus Matej,98020056,Muller,Matěj,Banik,Male
+988,Charles Stanley Chukwudi,03051658,Simek,Stanley,Zlinsko,Male
+989,Charvat Vladimir,06070006,Hrdlicka,Vladimír,Budejovice,Male
+990,Chervak Vadym,99051833,Martinovic,,,
+991,Chidera Jude Agbo,04071710,Simek,Agbo,Trinec,Unknown
+992,Chlumecky Martin,97010588,Levy,,,
+993,Chory Tomas,95011550,Nehoda,Tomáš,Slavia,Male
+994,Chromeckova Nicole,08010318,Rehak,,,
+995,Chukwuebuka Enyiazu,05121461,Smejkal,,Pardubice,Unknown
+996,Chumlen Nicolas,09030704,Nehoda,Nicolas,Plzen,Male
+997,Chveja Ondrej,98070972,Chovanec,Ondřej,Banik,Male
+998,Chytil Samuel,08020023,Hrdlicka,Samuel,Olomouc,Male
+999,Chytil Mojmir,99041506,Paska,Mojmír,Slavia,Male
+1000,Chytry Jan,04050329,Hrdlicka,Jan,Jihlava,Male
+1001,lcha Marek,02030527,Hrdlicka,Marek,Liberec,Male
+1002,Isaiah Babajide Ezekiel,01081755,Smejkal,,,
+1003,Iwuala Ugochukwu Stephen,04031581,Simek,,,
+1004,Jaja David Lawrence,03081696,Kolar,,,
+1005,Jakubkovic Adam,07060159,Riha,Adam,Zbrojovka,Male
+1006,Jakubu Radka,06020095,Barton,,,
+1007,Jambor David,03010883,Paska,David,Zbrojovka,Male
+1008,Janacek Martin,00090937,Levy,Martin,Budejovice,Male
+1009,Janca Ladislav,03100017,Rehak,Ladislav,Domazlice,Male
+1010,Janetzky Jakub,97060613,Matejek,Jakub,Zbrojovka,Male
+1011,Janjus Teodor,01040187,Chovanec,Teodor,Hlubina,Male
+1012,Janosek Dominik,98060698,Konig,,,
+1013,Harustak Jan,05040202,Bartonicek,Jan,Frydek,Male
+1014,Hasala Dominik,01010066,Kisel,Dominik,Hlucin,Male
+1015,Hason Lukas,06061070,Fukan,,,
+1016,Hasek Pavel,05010299,Nehoda,Pavel,Plzen,Male
+1017,Hasek Dominik,98071064,Pav,Dominik,Dukla,Male
+1018,Havel Lukas,96060307,Kisel,Lukáš,Teplice,Male
+1019,Havel Milan,94080405,Zika,Milan,Plzen,Male
+1020,Havelka Vojtech,07050181,Muller,Vojtěch,Sparta,Male
+1021,Havelka Filip,98010971,Zika,Filip,Teplice,Male
+1022,Havlik Marek,95070454,Nehoda,Marek,Slovacko,Male
+1023,Havran Marek,06100607,Muller,Marek,Hlucin,Male
+1024,Havrlik Jakub,07060237,Muller,Jakub,Sparta,Male
+1025,Helal Abdulla Yusuf,93062545,Kolar,Abdulla,Bohemians,Male
+1026,Hendrych Vaclav,08090730,Paska,Václav,Pardubice,Male
+1027,Hink Adam,09040884,Hrdlicka,,,
+1028,Hladik Dusan,07010114,Riha,,,
+1029,Hlavac Martin,02080746,Hrdlicka,Martin,Hradec,Male
+1030,Hlavaty Radek,09020100,Vrto,Radek,Banik,Male
+1031,Hlavaty Vaclav,09071388,Levy,Václav,Slavia,Male
+1032,Hlavaty Michal,98060901,Konig,Michal,Liberec,Male
+1033,Hlouchova Radka,04010734,Muller,,,
+1034,Hlozek Adam,02070935,Paska,,,
+1035,Hluchan Filip,04010011,Paska,,,
+1036,Hodek Jakub,01090113,Krob,Jakub,Vlasim,Male
+1037,Hodous Petr,03120457,Muller,Petr,Sparta,Male
+1038,Holes Tomas,93032511,Kolar,Tomáš,Slavia,Male
+1039,Holik Libor,98050587,Neuschl,,,
+1040,Holis David,02060888,Nehoda,,,
+1041,Holis Roman,98051183,Nehoda,Roman,Dukla,Male
+1042,Holoubek David,02060661,Nehoda,David,Vlasim,Male
+1043,Holzer Daniel,95081077,Matejek,Daniel,Banik,Male
+1044,Honajzer Alex,06020172,Kolar,,,
+1045,Honc Daniel,07110927,Hrdlicka,,,
+1046,Honig Michael,00010610,Krob,Michael,Zizkov,Male
+1047,Honomichl Matej,06100230,Paska,Matěj,Plzen,Male
+1048,Hora Jakub,01030323,Hrdlicka,,,
+1049,Hora Jakub,91021939,Neuschl,Jakub,Dukla,Male
+1050,Horak Daniel,00050498,Konig,Daniel,Hradec,Male
+1051,Horak Roman,05020311,Muller,Roman,Sparta,Male
+1052,Horalek Lukas,04080558,Hrdlicka,,,
+1053,Horvath Patrik,08010283,Chyba,Patrik,Slavia,Male
+1054,Hosek Michal,01040965,Muller,Michal,Jihlava,Male
+1055,Houdek Samuel,05010159,Nehoda,Samuel,Domazlice,Male
+1056,Howard Daniel,04050482,Hrdlicka,Daniel,Chlumec n. Cidlinou,Male
+1057,Hradil Vladislav,06070065,Zika,Vladislav,Zbrojovka,Male
+1058,Hradisky Adam Pavel,05030366,Nehoda,,,
+1059,Hradisky Alain Pavel,09040393,Hrdlicka,,,
+1060,Hranac Robin,00011357,Kisel,Robin,Plzen,Male

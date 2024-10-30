@@ -1,3 +1,4 @@
+# Načtení dat ze souboru agenti.csv
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt

@@ -48,7 +48,7 @@ if selected_agent:
     st.pyplot(fig)
 
     # Zobrazení celkového počtu hráčů
-    st.write(f"**Celkový počet hráčů agenta {selected_agent}: {agent_total_counts[selected_agent]}**")
+    st.markdown(f"**Celkový počet hráčů agenta {selected_agent}:** <span style='font-size:30px; font-weight:bold;'>{agent_total_counts[selected_agent]}</span>", unsafe_allow_html=True)
 
 # Legenda ke skupinám
 st.markdown("""

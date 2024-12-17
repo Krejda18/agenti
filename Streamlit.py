@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 # Načtení dat ze souboru agenti.csv
 @st.cache_data
 def load_data():
-    return pd.read_csv("agenti.csv", delimiter=',')
+    return pd.read_csv("agenti12_2024.csv", delimiter=',')
 
 data = load_data()
 data.columns = data.columns.str.strip()  # Odstranění mezer ze jmen sloupců
